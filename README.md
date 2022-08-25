@@ -8,14 +8,14 @@
 
 
 ## List done:
-o Pie chart, Line chart, Bar chart (UI Done)
-o Tabel listing data (Done)
-o Halaman Form Add data (Done)
-o Halaman Form Edit data (UI Done)
-o Halaman Detail Data (UI Done)
-o Action Edit (UI Done)
-o Action Add (Done)
-o Action Delete (Done)
+1. Pie chart, Line chart, Bar chart (UI Done)
+2. Tabel listing data (Done)
+3. Halaman Form Add data (Done)
+4. Halaman Form Edit data (UI Done)
+5. Halaman Detail Data (UI Done)
+6. Action Edit (UI Done)
+7. Action Add (Done)
+8. Action Delete (Done)
 
 ## Problem
 1. Still cannot navigate well
