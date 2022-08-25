@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+
+.ant-layout-header{
+    background-color: #0096FF
+}
+
+.ant-layout-sider-children{
+    color: rgba(27, 136, 11, 0.96);
+}
+
+.ant-layout-sider{
+    background-color: #0096FF
+}
+
+.ant-layout-sider-trigger{
+    background-color: #00D7FF
+}
+
+.ant-layout-content{
+    background-color: #EAF6F6
+}
+
+.ant-layout-footer{
+    background-color: #EAF6F6
+}
